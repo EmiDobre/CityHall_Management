@@ -1,0 +1,31 @@
+adauga_utilizator; angajat; Irina Manole; SBP
+cerere_noua; Irina Manole; organizare eveniment; parada ziua Europei; 3000
+adauga_functionar; evenimente; Danut Functionarescu
+rezolva_cerere; evenimente; Danut Functionarescu
+cerere_noua; Irina Manole; organizare eveniment; concert Aerosmith ; 9500
+rezolva_cerere; evenimente; Danut Functionarescu
+adauga_utilizator; pensionar; Alexandrescu Matei
+cerere_noua; Alexandrescu Matei; organizare eveniment; slujba de Pasti cor local; 450
+cerere_noua; Alexandrescu Matei; organizare eveniment; duminica bingo; 490
+adauga_functionar; evenimente; Popescu Alina
+rezolva_cerere; evenimente; Popescu Alina
+rezolva_cerere; evenimente; Popescu Alina
+afiseaza evenimentele viitoare
+afiseaza evenimentele respinse
+afiseaza evenimentele acceptate; Irina Manole
+adauga_utilizator; entitate juridica; CC SRL; Cristina Cristescu
+cerere_noua; CC SRL; organizare eveniment; parada 1 decembrie; 5690
+cerere_noua; CC SRL; organizare eveniment; festival teatru; 4590
+cerere_noua; CC SRL; organizare eveniment; olimpiada nationala matematica; 2800
+cerere_noua; CC SRL; organizare eveniment; SAGA festival; 12000
+cerere_noua; CC SRL; organizare eveniment; ROCKSTADT; 11600
+adauga_functionar; evenimente; Manole Diana
+rezolva_cerere; evenimente; Manole Diana
+rezolva_cerere; evenimente; Manole Diana
+adauga_functionar; evenimente; Stoican Adrian
+rezolva_cerere; evenimente; Stoican Adrian
+rezolva_cerere; evenimente; Stoican Adrian
+rezolva_cerere; evenimente; Stoican Adrian
+afiseaza evenimentele viitoare
+afiseaza evenimentele respinse
+afiseaza evenimentele acceptate; CC SRL
